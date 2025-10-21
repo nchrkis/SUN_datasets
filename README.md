@@ -58,8 +58,8 @@ This dataset captures realistic aerosol behavior relevant to **public health**, 
 | Column | Description |
 |:-------|:-------------|
 | `x` | Particle diameter in metres (m) |
-| `y` | Lateral distance from the mouth (metres); `y = 0` denotes the central airflow axis |
-Negative and positive `y` values indicate dispersion to either side of the main streamline (lateral direction along the horizontal flow plane, without defining a specific left or right orientation
+| `y` | Lateral distance from the mouth (metres); `y = 0` denotes the central airflow axis. Negative and positive `y` values indicate dispersion to either side of the main streamline (lateral direction along the horizontal flow plane, without defining a specific left or right orientation). |
+
 
 ---
 
