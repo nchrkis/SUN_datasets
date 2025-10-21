@@ -70,7 +70,7 @@ This dataset captures realistic aerosol behavior relevant to **public health**, 
 
 **Physical meaning of clusters:**
 1. **Cluster 1, 2 & 3:** High-velocity core (main airflow trajectory)  
-2. **Clusters 4 & 5:** Particles displaced *upward* and *downward* due to inertial effects  
+2. **Clusters 4 & 5:** Peripheral dispersed particles farther from the core  
   
 
 These clusters reflect **flow-induced segregation** and **turbulence-driven dispersion patterns**.
