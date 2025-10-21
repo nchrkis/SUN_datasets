@@ -61,7 +61,7 @@ This dataset captures realistic aerosol behavior relevant to **public health**, 
 | `y` | Lateral distance from the mouth (metres); `y = 0` denotes the central airflow axis |
 
 ---
-
+Negative
 ### Structure
 
 - **Total points:** 146,400  
